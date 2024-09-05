@@ -6,7 +6,7 @@
 
 ## 🚀 Programador Ultra Senior
 
-Con años de experiencia en el mundo del desarrollo, he perfeccionado mis habilidades para enfrentar cualquier desafío de programación.
+Con mucha experiencia en el mundo del desarrollo, he perfeccionado mis habilidades para enfrentar cualquier desafío de programación.
 
 ### 🛠️ Tecnologías y Herramientas
 
