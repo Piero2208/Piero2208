@@ -1,7 +1,7 @@
 # 👨‍💻 Bienvenido a mi perfil de GitHub 👨‍💻
 
 <div align="center">
-  <img src="/api/placeholder/1200/300" alt="Banner personalizado" style="width: 100%;">
+  <img src="wallpaperflare.com_wallpaper.jpg" alt="Banner personalizado" style="width: 100%;">
 </div>
 
 ## 🚀 Programador Ultra Senior
