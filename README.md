@@ -66,14 +66,12 @@ Soy un apasionado Ingeniero de Sistemas con experiencia en desarrollo de softwar
 
 ## Estadísticas de GitHub 📊
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+<p align="center">
+<a href="https://github.com/AngelSant04">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pieromental&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pieromental&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ## Contacta conmigo 🌐
 
