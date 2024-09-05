@@ -1,7 +1,7 @@
 # ¡Hola, soy PieroDev! 👋👨‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E1F7&background=FF512800&center=true&vCenter=true&width=435&lines=Ingeniero+de+Sistemas y Comútacion;Programador;Amante+del+Café+☕" alt="Typing SVG" />
+  <img src="wallpaperflare.com_wallpaper.jpg" alt="Typing SVG" />
 </div>
 
 ## Sobre mí 🚀
